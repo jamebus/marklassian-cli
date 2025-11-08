@@ -1,7 +1,7 @@
 {
   "name": "marklassian-cli",
   "version": "1.0.0",
-  "description": "cli wrapper for marklassian",
+  "description": "Command-line wrapper for marklassian",
   "license": "MIT",
   "author": {
     "name": "James Kelly",

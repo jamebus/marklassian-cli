@@ -1,2 +1,3 @@
 # marklassian-cli
-cli wrapper for marklassian
+
+Command-line wrapper for marklassian
