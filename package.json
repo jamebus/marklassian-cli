@@ -1,0 +1,18 @@
+{
+  "name": "marklassian-cli",
+  "version": "1.0.0",
+  "description": "cli wrapper for marklassian",
+  "license": "MIT",
+  "author": {
+    "name": "James Kelly",
+    "email": "james@hicag.org",
+    "url": "https://www.jameb.us/"
+  },
+  "type": "module",
+  "dependencies": {
+    "marklassian": "^1.1.0"
+  },
+  "bin": {
+    "marklassian": "cli.js"
+  }
+}
