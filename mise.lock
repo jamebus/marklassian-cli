@@ -1,0 +1,8 @@
+[[tools.node]]
+version = "25.1.0"
+backend = "core:node"
+"platforms.linux-arm64" = { checksum = "sha256:9cc83fc5dfdc36692aabec37ab1c6d070d11c44f02764b5e50777491552e8449", url = "https://nodejs.org/dist/v25.1.0/node-v25.1.0-linux-arm64.tar.gz"}
+"platforms.linux-x64" = { checksum = "sha256:0b8de924cd43546a2098c091b73002442cd61340622b2c1489df408755de21fc", url = "https://nodejs.org/dist/v25.1.0/node-v25.1.0-linux-x64.tar.gz"}
+"platforms.macos-arm64" = { checksum = "sha256:811dcf54580d9eef0abfed9f65457545d2aac8e24853b6e638194fcba0257168", url = "https://nodejs.org/dist/v25.1.0/node-v25.1.0-darwin-arm64.tar.gz"}
+"platforms.macos-x64" = { checksum = "sha256:5c2d45214e70327e683df301eeb11d8fc9265ab22ad41ff6335e4a7befc07169", url = "https://nodejs.org/dist/v25.1.0/node-v25.1.0-darwin-x64.tar.gz"}
+"platforms.windows-x64" = { checksum = "sha256:abab8d2fff33dad361e51b51dfadd1f8aaef8677f88d21e3cccaf7b6e6f46339", url = "https://nodejs.org/dist/v25.1.0/node-v25.1.0-win-x64.zip"}
