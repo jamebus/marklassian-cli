@@ -10,7 +10,7 @@
   },
   "type": "module",
   "dependencies": {
-    "marklassian": "^1.1.0"
+    "marklassian": "^1.2.0"
   },
   "bin": {
     "marklassian": "cli.js"
